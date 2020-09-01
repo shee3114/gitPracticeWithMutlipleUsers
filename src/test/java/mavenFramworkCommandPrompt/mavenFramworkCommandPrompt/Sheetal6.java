@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class Sheetal6 {
 	@Test
 	public void testEleven() {
-		System.out.println("---Eleven Test Case");
+		System.out.println("-----Eleven Test Case");
 	}
 
 	@Test
@@ -18,4 +18,13 @@ public class Sheetal6 {
 		System.out.println("-----Thirteen test case");
 	}
 
+	@Test
+	public void testABC() {
+		System.out.println("------testABC ");
+	}
+
+	@Test
+	public void testXYZ() {
+		System.out.println("------testXYZ");
+	}
 }
