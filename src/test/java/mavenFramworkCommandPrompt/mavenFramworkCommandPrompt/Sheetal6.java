@@ -29,4 +29,9 @@ public class Sheetal6 {
 		System.out.println("------testXYZ");
 	}
 
+
+	public void testMNOP() {
+		System.out.println("-----test PQRST");
+	}
+
 }
