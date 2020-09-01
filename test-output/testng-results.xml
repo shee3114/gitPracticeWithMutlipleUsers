@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2020-06-20T10:23:39Z" finished-at="2020-06-20T10:23:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2020-06-20T10:23:39Z" finished-at="2020-06-20T10:23:39Z">
+      <class name="mavenFramworkCommandPrompt.mavenFramworkCommandPrompt.SheetalTest2">
+        <test-method status="PASS" signature="testFour()[pri:0, instance:mavenFramworkCommandPrompt.mavenFramworkCommandPrompt.SheetalTest2@6cc4c815]" name="testFour" duration-ms="1" started-at="2020-06-20T15:53:39Z" finished-at="2020-06-20T15:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:mavenFramworkCommandPrompt.mavenFramworkCommandPrompt.SheetalTest2@6cc4c815]" name="testThree" duration-ms="2" started-at="2020-06-20T15:53:39Z" finished-at="2020-06-20T15:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+      </class> <!-- mavenFramworkCommandPrompt.mavenFramworkCommandPrompt.SheetalTest2 -->
+      <class name="mavenFramworkCommandPrompt.mavenFramworkCommandPrompt.SheetalTest1">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:mavenFramworkCommandPrompt.mavenFramworkCommandPrompt.SheetalTest1@23ceabc1]" name="testOne" duration-ms="13" started-at="2020-06-20T15:53:39Z" finished-at="2020-06-20T15:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:mavenFramworkCommandPrompt.mavenFramworkCommandPrompt.SheetalTest1@23ceabc1]" name="testTwo" duration-ms="1" started-at="2020-06-20T15:53:39Z" finished-at="2020-06-20T15:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- mavenFramworkCommandPrompt.mavenFramworkCommandPrompt.SheetalTest1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
