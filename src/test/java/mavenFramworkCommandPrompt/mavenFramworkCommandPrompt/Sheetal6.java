@@ -29,9 +29,12 @@ public class Sheetal6 {
 		System.out.println("------testXYZ");
 	}
 
-
 	public void testMNOP() {
 		System.out.println("-----test PQRST");
+	}
+
+	public void testWrittenByUSERX() {
+		System.out.println("--test developed by user X");
 	}
 
 }
