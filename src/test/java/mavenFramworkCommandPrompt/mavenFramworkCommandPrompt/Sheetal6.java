@@ -11,7 +11,6 @@ public class Sheetal6 {
 	@Test
 	public void testTen() {
 		System.out.println("---Twelve test case");
-
 	}
 
 }
