@@ -4,14 +4,19 @@ import org.testng.annotations.Test;
 
 public class Sheetal6 {
 	@Test
-	public void testNine() {
+	public void testEleven() {
 		System.out.println("---Eleven Test Case");
 	}
 
 	@Test
-	public void testTen() {
+	public void testTweleve() {
 		System.out.println("---Twelve test case");
 
+	}
+
+	@Test
+	public void testThirteen() {
+		System.out.println("-----Thirteen test case");
 	}
 
 }
