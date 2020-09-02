@@ -15,7 +15,7 @@ public class SheetalTest2 {
 	}
 
 
-	@Test
+@Test
 	public void CodeWrittenByUserY() {
 		System.out.println("Code written by UserY");
 	}
