@@ -11,7 +11,11 @@ public class SheetalTest1 {
 	@Test
 	public void testTwo() {
 		System.out.println("---Second test case");
-		System.out.println("Code written by X user");
+	}
+
+	@Test
+	public void testWrittenByUserX() {
+		System.out.println("-- test written by user X.");
 	}
 
 }
