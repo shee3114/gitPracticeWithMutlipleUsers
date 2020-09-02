@@ -13,4 +13,9 @@ public class SheetalTest2 {
 	public void testFour() {
 		System.out.println("---Forth test case");
 	}
+
+	@Test
+	public void CodeWrittenByUserY() {
+		System.out.println("Code written by UserY");
+	}
 }
