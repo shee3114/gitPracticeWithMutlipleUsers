@@ -2,7 +2,7 @@ package mavenFramworkCommandPrompt.mavenFramworkCommandPrompt;
 
 import org.testng.annotations.Test;
 
-public class SheetalTest3 {
+public class SheetalTest7 {
 	@Test
 	 public void testFive(){
 		 System.out.println("---Five Test Case");

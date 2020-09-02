@@ -20,7 +20,6 @@ public class SheetalTest2 {
 		System.out.println(" code written by user Y at 1 am.");
 	}
 
-
 	public void codeWrittenByUserX() {
 		System.out.println("Code written By User X");
 	}
