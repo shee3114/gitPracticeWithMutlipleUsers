@@ -12,10 +12,4 @@ public class SheetalTest1 {
 	public void testTwo() {
 		System.out.println("---Second test case");
 	}
-
-	@Test
-	public void codeWrittenByUserX() {
-		System.out.println("Code written by the User X");
-		System.out.println("Sheetal Desai");
-	}
 }
