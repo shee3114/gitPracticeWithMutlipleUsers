@@ -12,13 +12,10 @@ public class SheetalTest1 {
 	public void testTwo() {
 		System.out.println("---Second test case");
 	}
-<<<<<<< HEAD
 
-=======
 	
 	@Test
 	public void codeWrittenByUserX(){
 		System.out.println("Code written by the User X");
 	}
->>>>>>> 22c62fc6f5bc51c05ed86c2b76f232f7cadef518
 }
