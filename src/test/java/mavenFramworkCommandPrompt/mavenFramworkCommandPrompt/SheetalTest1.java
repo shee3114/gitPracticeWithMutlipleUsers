@@ -14,14 +14,8 @@ public class SheetalTest1 {
 	}
 
 	@Test
-	public void codeWrittenByUserX(){
+	public void codeWrittenByUserX() {
 		System.out.println("Code written by the User X");
 		System.out.println("Sheetal Desai");
 	}
-	
-	@Test
-	public void code123(){
-		System.out.println("");
-	}
-
 }
